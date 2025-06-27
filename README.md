@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcm390)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- WALLET-LINKING-BEGIN
 {
   "lastUpdated": "2025-06-27T09:42:52.552Z",
